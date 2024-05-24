@@ -29,4 +29,7 @@ https://github.com/Roberton003/ProjetoIntegradorII_RobertoMartins
 - Link da solução em funcionamento
 https://sites.google.com/view/caf-gourmet-cruzeiro/p%C3%A1gina-inicial 
 
-- Link do vídeo narrado (no mínimo 5 min) 
+- Link do vídeo narrado (no mínimo 5 min) https://www.veed.io/view/489e2094-7ed0-461a-9356-c62bff2534c8?panel=showcase
+https://drive.google.com/file/d/1NrCZu3ugTFfteXj-1HoZ2gS1ULUk-yX3/view?usp=drive_link 
+
+
